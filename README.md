@@ -14,7 +14,7 @@ This study investigates the relationship between solar activity cycles and the o
 
 ## Files
 
-- `main.py` - Python code for processing TLE data and analyzing orbital decay
+- `iss_tle_2005_2025.py` - Python code for processing TLE data and analyzing orbital decay
 
 ## Requirements
 
