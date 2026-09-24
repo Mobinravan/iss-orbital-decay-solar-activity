@@ -15,10 +15,3 @@ This study investigates the relationship between solar activity cycles and the o
 ## Files
 
 - `iss_tle_2005_2025.py` - Python code for processing TLE data and analyzing orbital decay
-
-## Requirements
-
-Install required packages:
-
-```bash
-pip install -r requirements.txt
